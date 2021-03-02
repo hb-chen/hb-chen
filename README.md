@@ -1,5 +1,3 @@
-> Gopher
-
 - [hbchen.com](http://hbchen.com)
 
 <!--
