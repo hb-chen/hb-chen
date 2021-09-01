@@ -1,9 +1,13 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hb-chen&show_icons=true"/>
+
+### Hello, I'm Hobo Chen 👋
+
 - [hbchen.com](http://hbchen.com)
 - [github.com/hb-go](https://github.com/hb-go)
 
 <!--
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hb-chen&show_icons=true&theme=vue"/>
-<img src="https://github-profile-trophy.vercel.app/?username=hb-chen&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+<img align="center" height="120" src="https://github-profile-trophy.vercel.app/?username=hb-chen&title=MultipleLang,Star,Follower,Commit,PullRequest,Issue&margin-w=20" style="max-width:100%;">
+<img src="https://github-profile-trophy.vercel.app/?username=hb-chen&theme=flat&column=7&margin-w=10" alt="logo" height="10" align="center" />
 **hb-chen/hb-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
